@@ -1,0 +1,6 @@
+# requirements.txt
+Appium-Python-Client
+pytest
+pytest-html
+faker
+python-dotenv
